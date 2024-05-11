@@ -10,6 +10,10 @@
       "link": "generated",
       "items": [
         {
+          "document": "docs/tutorial-basics/dapp-factory-intro.md",
+          "_template": "doc"
+        },
+        {
           "document": "docs/tutorial-basics/create-a-page.mdx",
           "_template": "doc"
         },
