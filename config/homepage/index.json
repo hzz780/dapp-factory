@@ -5,7 +5,7 @@
   "blocks": [
     {
       "document": "docs/intro.mdx",
-      "documentLabel": "Docusaurus Tutorial - 5min ⏱️",
+      "documentLabel": "Dapp Factory Tutorial",
       "_template": "hero"
     },
     {
